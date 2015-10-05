@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+/*------------May quay so-------------*/
+
+#box_quayso{
+    width:958px;
+    margin:0;
+    color:#5e5e5e;
+}
+#box_quayso h2{
+    text-align:center;
+    margin:10px 0;
+    color:#4290c7;
+    font-size:14px;
+    line-height:20px;
+}
+#box_quayso .content{
+    float:left;
+    width:920px;
+    padding:0 20px;
+    background:#d5e8f6 url(../images/llineV.gif) center bottom no-repeat;
+}
+#box_quayso .col-1{
+    float:left;
+    margin:10px 130px 10px 0;
+    line-height:20px;
+    text-decoration:none;
+}
+#box_quayso .col-2{
+    float:left;
+    margin:20px 80px 10px 0;
+    line-height:30px;
+    text-align:center;
+    font-size:16px;
+    margin-left: 18px;
+}
+#box_quayso .col-3{
+    float:left;
+    margin:10px 0 10px 0;
+    width:270px;
+}
+
+#button_quayso{
+    width:20%;
+    color:#fff;
+    float:left;
+    margin:0 0 0 10px;
+    font-size:12px;
+    text-align:center;
+    background: #2885c1;
+    text-align: center;
+    padding: 5px 5px;
+    cursor:pointer;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 0  2px #126295;
+    font-weight:bold;
+
+}
+#button_quayso:hover{
+    background: #F90;
+    box-shadow: 0  3px #F60;
+}
+.text_blue12:link, .text_blue12:visited{
+    color:#06C;
+    text-decoration:none;
+}
+.text_blue12:hover, .text_blue12:active{
+    color: #F90;
+}
+#box_quayso .bg_quayso{
+    position: relative;
+    width: 958px;
+    float: left;
+    height: 500px;
+    background: #eed99c url(../images/bg_quayso.jpg) top center no-repeat;
+    border: 1px #ccc solid;
+}
+#box_ctquayso{
+    position: absolute;
+    left: 252px;
+    top: 15px;
+    width: 450px;
+    height: 455px;
+    z-index: 10;
+}

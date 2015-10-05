@@ -1,0 +1,47 @@
+﻿paymenttb
+PaymenType	Note
+1			Dịch vụ cho khách không sử dụng máy
+2			Phí dịch vụ
+4			Thời gian phí
+5			Trả tiền
+6			Số tiền mượn
+7			Quản lý ADMIN cho thời gian miễn phí: 5000 phút
+8			Số tiền được chuyển tới hội viên DUNG là: 5,000 đồng
+9			Phí dịch vụ chuyển từ MAY-12
+10			Thời gian phí chuyển từ MAY-01
+11			Quản lý ADMIN tặng tiền: 10,000 đồng
+
+
+usertb
+UserType	Note
+0			MAY *
+1			KHACHVANGLAI *
+2			Hội viên(mặc định)
+3			Quản lý *
+4			Nhân viên
+khác		Hội viên
+
+systemlogtb
+Status	Note
+1		Sẳn sàng
+2		Mất kết nối
+3		Đang sử dụng
+4		Cảnh báo
+
+MachineGroupId = Nhóm máy
+
+Key for server apps (with IP locking)
+API key:	
+AIzaSyC6Xx7UiIFM7jVIxeYMHqV0Y5c_zG5vbqs
+IPs:	
+Any IP allowed
+Activated on:	Mar 3, 2015 8:50 AM
+Activated by:	saovang1206@gmail.com – you
+eq7sheee2WzZGeGD54eeMpG2Yt5bpICBcJ8SFc31j8KfZLshc87YmZMS87TCfTZjYpvx4iShRCN2TxMfT4gAztdBovIfrudhkEXueyJ1c2VybmFtZSI6IkFETUlOIiwicGFzc3dvcmQiOiI3NWM1ZmQ0OTJiZWE4M2Q0In0
+
+Khuyến cáo độ phân giải màn hình smartphone >= 992px
+Màn hình độ phân giải nhỏ hơn 768px ko sử dụng được.
+
+image event 870px x 220px
+
+http://api.openweathermap.org/data/2.5/find?q=Ho%2BChi%2BMinh&type=like&mode=json

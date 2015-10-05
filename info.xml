@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <item>
+        <title>Bóng đá +</title>
+        <icon><![CDATA[http://5.stc.laban.vn/largeicons/bongdaplus.vn-1398227180.png]]></icon>
+        <url><![CDATA[http://bongdaplus.vn]]></url>
+        <head><![CDATA[Tin tức về bóng đá trong nước và thế giới]]></head>
+    </item>
+    <item>
+        <title>Zing TV</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/tv.zing.vn-1381396723.png]]></icon>
+        <url><![CDATA[http://tv.zing.vn]]></url>
+        <head><![CDATA[TV show, phim, âm nhạc, thể thao đặc sắc]]></head>
+    </item>
+    <item>
+        <title>Lazada</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/www.lazada.vn-1407750861.png]]></icon>
+        <url><![CDATA[http://ho.lazada.vn/SH79YW]]></url>
+        <head><![CDATA[Mua hàng online - Mua hàng Trực Tuyến Giá Rẻ]]></head>
+    </item>
+    <item>
+        <title>Chi Mộng 2</title>
+        <icon><![CDATA[http://5.stc.laban.vn/largeicons/360game.vn-1422847773.png]]></icon>
+        <url><![CDATA[http://360game.vn/landing-web-game/vo-lam-chi-mong-2_205.html?utm_source=Laban&utm_medium=LaBan_Home_Icon-0902&utm_term=AOJIAN2&utm_content=Home_Icon&utm_campaign=AOJIAN2090215-Internal_None_None&utm_lp=Feb-205]]></url>
+        <head><![CDATA[VCLM2- Siêu phẩm kiếm hiệp Kim Dung đặc sắc]]></head>
+    </item>
+    <item>
+        <title>Phong Vân</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/360game.vn-1422847845.png]]></icon>
+        <url><![CDATA[http://360game.vn/landing-web-game/phong-van_308.html?utm_source=Laban&utm_medium=G1_Laban_Home_Game_230315&utm_term=FV&utm_content=FV-308_Icon&utm_campaign=230315_GN]]></url>
+        <head><![CDATA[Webgame nhập vai kiếm hiệp mới nhất]]></head>
+    </item>
+    <item>
+        <title>Vui game</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/vuigame.vn-1353666308.png]]></icon>
+        <url><![CDATA[http://vuigame.vn/?_src=laban_icon]]></url>
+        <head><![CDATA[Tổng hợp game mini]]></head>
+    </item>
+    <item>
+        <title>Zing News</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/news.zing.vn-1381205130.png]]></icon>
+        <url><![CDATA[http://news.zing.vn]]></url>
+        <head><![CDATA[Tổng hợp tin tức báo chí và giải trí Việt Nam]]></head>
+    </item>
+    <item>
+        <title>Kênh 14</title>
+        <icon><![CDATA[http://2.stc.laban.vn/largeicons/kenh14.vn-1354607660.png]]></icon>
+        <url><![CDATA[http://kenh14.vn]]></url>
+        <head><![CDATA[Kênh giải trí - xã hội]]></head>
+    </item>
+    <item>
+        <title>Zing Play</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/play.zing.vn-1386906819.png]]></icon>
+        <url><![CDATA[http://play.zing.vn/tracking/index.laban.IconHomePage.LabanBanner.html?link=http%3A%2F%2Fplay.zing.vn%2F%3Futm_source%3DLaBan%26utm_medium%3DIconHomepage%26utm_campaign%3DLabanBanner]]></url>
+        <head><![CDATA[Cổng giải trí, chơi game online miễn phí]]></head>
+    </item>
+    <item>
+        <title>Báo mới</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/baomoi.com-1381205729.png]]></icon>
+        <url><![CDATA[http://baomoi.com]]></url>
+        <head><![CDATA[Tổng hợp tin tức mới, hay, tiêu điểm]]></head>
+    </item>
+    <item>
+        <title>24h</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/24h.com.vn-1381204839.png]]></icon>
+        <url><![CDATA[http://24h.com.vn]]></url>
+        <head><![CDATA[Tin nhanh, giải trí, thể thao, thời trang…]]></head>
+    </item>
+    <item>
+        <title>Facebook</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/facebook.com-1381205514.png]]></icon>
+        <url><![CDATA[https://www.facebook.com/]]></url>
+        <head><![CDATA[Mạng xã hội Facebook]]></head>
+    </item>
+    <item>
+        <title>NhacCuaTui</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/nhaccuatui.com-1381205535.png]]></icon>
+        <url><![CDATA[http://nhaccuatui.com]]></url>
+        <head><![CDATA[Nghe nhạc mọi lúc mọi nơi]]></head>
+    </item>
+    <item>
+        <title>Zing Me</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/me.zing.vn-1407989468.png]]></icon>
+        <url><![CDATA[http://me.zing.vn]]></url>
+        <head><![CDATA[Mạng xã hội Việt Nam]]></head>
+    </item>
+    <item>
+        <title>Tuổi trẻ</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/tuoitre.vn-1354612502.png]]></icon>
+        <url><![CDATA[http://tuoitre.vn]]></url>
+        <head><![CDATA[Cập nhật tin tức liên tục trong ngày]]></head>
+    </item>
+    <item>
+        <title>Youtube</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/youtube.com-1381205141.png]]></icon>
+        <url><![CDATA[http://youtube.com]]></url>
+        <head><![CDATA[Xem và chia sẻ video/clip toàn cầu]]></head>
+    </item>
+    <item>
+        <title>Võ Hồn 2</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/vh2.com.vn-1427447996.jpg]]></icon>
+        <url><![CDATA[http://vh2.com.vn]]></url>
+        <head><![CDATA[Võ Hồn 2 - Đặc sắc như game 3D]]></head>
+    </item>
+    <item>
+        <title>Zing Mp3</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/mp3.zing.vn-1372407479.png]]></icon>
+        <url><![CDATA[http://mp3.zing.vn]]></url>
+        <head><![CDATA[Nghe nhạc trực tuyến chất lượng cao]]></head>
+    </item>
+    <item>
+        <title>Bóng đá</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/www.bongda.com.vn-1354611194.png]]></icon>
+        <url><![CDATA[http://www.bongda.com.vn]]></url>
+        <head><![CDATA[Tin tức bóng đá tổng hợp, chuyên sâu]]></head>
+    </item>
+    <item>
+        <title>Dân trí</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/dantri.com.vn-1381205614.png]]></icon>
+        <url><![CDATA[http://dantri.com.vn]]></url>
+        <head><![CDATA[Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà]]></head>
+    </item>
+    <item>
+        <title>VnExpress</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/vnexpress.net-1381205280.png]]></icon>
+        <url><![CDATA[http://vnexpress.net]]></url>
+        <head><![CDATA[Tin nhanh - Báo tiếng Việt nhiều người xem]]></head>
+    </item>
+</site>
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <item>
+        <title>Bóng đá +</title>
+        <icon><![CDATA[http://5.stc.laban.vn/largeicons/bongdaplus.vn-1398227180.png]]></icon>
+        <url><![CDATA[http://bongdaplus.vn]]></url>
+        <head><![CDATA[Tin tức về bóng đá trong nước và thế giới]]></head>
+    </item>
+    <item>
+        <title>Zing TV</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/tv.zing.vn-1381396723.png]]></icon>
+        <url><![CDATA[http://tv.zing.vn]]></url>
+        <head><![CDATA[TV show, phim, âm nhạc, thể thao đặc sắc]]></head>
+    </item>
+    <item>
+        <title>Lazada</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/www.lazada.vn-1407750861.png]]></icon>
+        <url><![CDATA[http://ho.lazada.vn/SH79YW]]></url>
+        <head><![CDATA[Mua hàng online - Mua hàng Trực Tuyến Giá Rẻ]]></head>
+    </item>
+    <item>
+        <title>Chi Mộng 2</title>
+        <icon><![CDATA[http://5.stc.laban.vn/largeicons/360game.vn-1422847773.png]]></icon>
+        <url><![CDATA[http://360game.vn/landing-web-game/vo-lam-chi-mong-2_205.html?utm_source=Laban&utm_medium=LaBan_Home_Icon-0902&utm_term=AOJIAN2&utm_content=Home_Icon&utm_campaign=AOJIAN2090215-Internal_None_None&utm_lp=Feb-205]]></url>
+        <head><![CDATA[VCLM2- Siêu phẩm kiếm hiệp Kim Dung đặc sắc]]></head>
+    </item>
+    <item>
+        <title>Phong Vân</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/360game.vn-1422847845.png]]></icon>
+        <url><![CDATA[http://360game.vn/landing-web-game/phong-van_308.html?utm_source=Laban&utm_medium=G1_Laban_Home_Game_230315&utm_term=FV&utm_content=FV-308_Icon&utm_campaign=230315_GN]]></url>
+        <head><![CDATA[Webgame nhập vai kiếm hiệp mới nhất]]></head>
+    </item>
+    <item>
+        <title>Vui game</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/vuigame.vn-1353666308.png]]></icon>
+        <url><![CDATA[http://vuigame.vn/?_src=laban_icon]]></url>
+        <head><![CDATA[Tổng hợp game mini]]></head>
+    </item>
+    <item>
+        <title>Zing News</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/news.zing.vn-1381205130.png]]></icon>
+        <url><![CDATA[http://news.zing.vn]]></url>
+        <head><![CDATA[Tổng hợp tin tức báo chí và giải trí Việt Nam]]></head>
+    </item>
+    <item>
+        <title>Kênh 14</title>
+        <icon><![CDATA[http://2.stc.laban.vn/largeicons/kenh14.vn-1354607660.png]]></icon>
+        <url><![CDATA[http://kenh14.vn]]></url>
+        <head><![CDATA[Kênh giải trí - xã hội]]></head>
+    </item>
+    <item>
+        <title>Zing Play</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/play.zing.vn-1386906819.png]]></icon>
+        <url><![CDATA[http://play.zing.vn/tracking/index.laban.IconHomePage.LabanBanner.html?link=http%3A%2F%2Fplay.zing.vn%2F%3Futm_source%3DLaBan%26utm_medium%3DIconHomepage%26utm_campaign%3DLabanBanner]]></url>
+        <head><![CDATA[Cổng giải trí, chơi game online miễn phí]]></head>
+    </item>
+    <item>
+        <title>Báo mới</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/baomoi.com-1381205729.png]]></icon>
+        <url><![CDATA[http://baomoi.com]]></url>
+        <head><![CDATA[Tổng hợp tin tức mới, hay, tiêu điểm]]></head>
+    </item>
+    <item>
+        <title>24h</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/24h.com.vn-1381204839.png]]></icon>
+        <url><![CDATA[http://24h.com.vn]]></url>
+        <head><![CDATA[Tin nhanh, giải trí, thể thao, thời trang…]]></head>
+    </item>
+    <item>
+        <title>Facebook</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/facebook.com-1381205514.png]]></icon>
+        <url><![CDATA[https://www.facebook.com/]]></url>
+        <head><![CDATA[Mạng xã hội Facebook]]></head>
+    </item>
+    <item>
+        <title>NhacCuaTui</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/nhaccuatui.com-1381205535.png]]></icon>
+        <url><![CDATA[http://nhaccuatui.com]]></url>
+        <head><![CDATA[Nghe nhạc mọi lúc mọi nơi]]></head>
+    </item>
+    <item>
+        <title>Zing Me</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/me.zing.vn-1407989468.png]]></icon>
+        <url><![CDATA[http://me.zing.vn]]></url>
+        <head><![CDATA[Mạng xã hội Việt Nam]]></head>
+    </item>
+    <item>
+        <title>Tuổi trẻ</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/tuoitre.vn-1354612502.png]]></icon>
+        <url><![CDATA[http://tuoitre.vn]]></url>
+        <head><![CDATA[Cập nhật tin tức liên tục trong ngày]]></head>
+    </item>
+    <item>
+        <title>Youtube</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/youtube.com-1381205141.png]]></icon>
+        <url><![CDATA[http://youtube.com]]></url>
+        <head><![CDATA[Xem và chia sẻ video/clip toàn cầu]]></head>
+    </item>
+    <item>
+        <title>Võ Hồn 2</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/vh2.com.vn-1427447996.jpg]]></icon>
+        <url><![CDATA[http://vh2.com.vn]]></url>
+        <head><![CDATA[Võ Hồn 2 - Đặc sắc như game 3D]]></head>
+    </item>
+    <item>
+        <title>Zing Mp3</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/mp3.zing.vn-1372407479.png]]></icon>
+        <url><![CDATA[http://mp3.zing.vn]]></url>
+        <head><![CDATA[Nghe nhạc trực tuyến chất lượng cao]]></head>
+    </item>
+    <item>
+        <title>Bóng đá</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/www.bongda.com.vn-1354611194.png]]></icon>
+        <url><![CDATA[http://www.bongda.com.vn]]></url>
+        <head><![CDATA[Tin tức bóng đá tổng hợp, chuyên sâu]]></head>
+    </item>
+    <item>
+        <title>Dân trí</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/dantri.com.vn-1381205614.png]]></icon>
+        <url><![CDATA[http://dantri.com.vn]]></url>
+        <head><![CDATA[Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà]]></head>
+    </item>
+    <item>
+        <title>VnExpress</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/vnexpress.net-1381205280.png]]></icon>
+        <url><![CDATA[http://vnexpress.net]]></url>
+        <head><![CDATA[Tin nhanh - Báo tiếng Việt nhiều người xem]]></head>
+    </item>
+</site>
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <item>
+        <title>Bóng đá +</title>
+        <icon><![CDATA[http://5.stc.laban.vn/largeicons/bongdaplus.vn-1398227180.png]]></icon>
+        <url><![CDATA[http://bongdaplus.vn]]></url>
+        <head><![CDATA[Tin tức về bóng đá trong nước và thế giới]]></head>
+    </item>
+    <item>
+        <title>Zing TV</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/tv.zing.vn-1381396723.png]]></icon>
+        <url><![CDATA[http://tv.zing.vn]]></url>
+        <head><![CDATA[TV show, phim, âm nhạc, thể thao đặc sắc]]></head>
+    </item>
+    <item>
+        <title>Lazada</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/www.lazada.vn-1407750861.png]]></icon>
+        <url><![CDATA[http://ho.lazada.vn/SH79YW]]></url>
+        <head><![CDATA[Mua hàng online - Mua hàng Trực Tuyến Giá Rẻ]]></head>
+    </item>
+    <item>
+        <title>Chi Mộng 2</title>
+        <icon><![CDATA[http://5.stc.laban.vn/largeicons/360game.vn-1422847773.png]]></icon>
+        <url><![CDATA[http://360game.vn/landing-web-game/vo-lam-chi-mong-2_205.html?utm_source=Laban&utm_medium=LaBan_Home_Icon-0902&utm_term=AOJIAN2&utm_content=Home_Icon&utm_campaign=AOJIAN2090215-Internal_None_None&utm_lp=Feb-205]]></url>
+        <head><![CDATA[VCLM2- Siêu phẩm kiếm hiệp Kim Dung đặc sắc]]></head>
+    </item>
+    <item>
+        <title>Phong Vân</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/360game.vn-1422847845.png]]></icon>
+        <url><![CDATA[http://360game.vn/landing-web-game/phong-van_308.html?utm_source=Laban&utm_medium=G1_Laban_Home_Game_230315&utm_term=FV&utm_content=FV-308_Icon&utm_campaign=230315_GN]]></url>
+        <head><![CDATA[Webgame nhập vai kiếm hiệp mới nhất]]></head>
+    </item>
+    <item>
+        <title>Vui game</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/vuigame.vn-1353666308.png]]></icon>
+        <url><![CDATA[http://vuigame.vn/?_src=laban_icon]]></url>
+        <head><![CDATA[Tổng hợp game mini]]></head>
+    </item>
+    <item>
+        <title>Zing News</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/news.zing.vn-1381205130.png]]></icon>
+        <url><![CDATA[http://news.zing.vn]]></url>
+        <head><![CDATA[Tổng hợp tin tức báo chí và giải trí Việt Nam]]></head>
+    </item>
+    <item>
+        <title>Kênh 14</title>
+        <icon><![CDATA[http://2.stc.laban.vn/largeicons/kenh14.vn-1354607660.png]]></icon>
+        <url><![CDATA[http://kenh14.vn]]></url>
+        <head><![CDATA[Kênh giải trí - xã hội]]></head>
+    </item>
+    <item>
+        <title>Zing Play</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/play.zing.vn-1386906819.png]]></icon>
+        <url><![CDATA[http://play.zing.vn/tracking/index.laban.IconHomePage.LabanBanner.html?link=http%3A%2F%2Fplay.zing.vn%2F%3Futm_source%3DLaBan%26utm_medium%3DIconHomepage%26utm_campaign%3DLabanBanner]]></url>
+        <head><![CDATA[Cổng giải trí, chơi game online miễn phí]]></head>
+    </item>
+    <item>
+        <title>Báo mới</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/baomoi.com-1381205729.png]]></icon>
+        <url><![CDATA[http://baomoi.com]]></url>
+        <head><![CDATA[Tổng hợp tin tức mới, hay, tiêu điểm]]></head>
+    </item>
+    <item>
+        <title>24h</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/24h.com.vn-1381204839.png]]></icon>
+        <url><![CDATA[http://24h.com.vn]]></url>
+        <head><![CDATA[Tin nhanh, giải trí, thể thao, thời trang…]]></head>
+    </item>
+    <item>
+        <title>Facebook</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/facebook.com-1381205514.png]]></icon>
+        <url><![CDATA[https://www.facebook.com/]]></url>
+        <head><![CDATA[Mạng xã hội Facebook]]></head>
+    </item>
+    <item>
+        <title>NhacCuaTui</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/nhaccuatui.com-1381205535.png]]></icon>
+        <url><![CDATA[http://nhaccuatui.com]]></url>
+        <head><![CDATA[Nghe nhạc mọi lúc mọi nơi]]></head>
+    </item>
+    <item>
+        <title>Zing Me</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/me.zing.vn-1407989468.png]]></icon>
+        <url><![CDATA[http://me.zing.vn]]></url>
+        <head><![CDATA[Mạng xã hội Việt Nam]]></head>
+    </item>
+    <item>
+        <title>Tuổi trẻ</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/tuoitre.vn-1354612502.png]]></icon>
+        <url><![CDATA[http://tuoitre.vn]]></url>
+        <head><![CDATA[Cập nhật tin tức liên tục trong ngày]]></head>
+    </item>
+    <item>
+        <title>Youtube</title>
+        <icon><![CDATA[http://3.stc.laban.vn/largeicons/youtube.com-1381205141.png]]></icon>
+        <url><![CDATA[http://youtube.com]]></url>
+        <head><![CDATA[Xem và chia sẻ video/clip toàn cầu]]></head>
+    </item>
+    <item>
+        <title>Võ Hồn 2</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/vh2.com.vn-1427447996.jpg]]></icon>
+        <url><![CDATA[http://vh2.com.vn]]></url>
+        <head><![CDATA[Võ Hồn 2 - Đặc sắc như game 3D]]></head>
+    </item>
+    <item>
+        <title>Zing Mp3</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/mp3.zing.vn-1372407479.png]]></icon>
+        <url><![CDATA[http://mp3.zing.vn]]></url>
+        <head><![CDATA[Nghe nhạc trực tuyến chất lượng cao]]></head>
+    </item>
+    <item>
+        <title>Bóng đá</title>
+        <icon><![CDATA[http://4.stc.laban.vn/largeicons/www.bongda.com.vn-1354611194.png]]></icon>
+        <url><![CDATA[http://www.bongda.com.vn]]></url>
+        <head><![CDATA[Tin tức bóng đá tổng hợp, chuyên sâu]]></head>
+    </item>
+    <item>
+        <title>Dân trí</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/dantri.com.vn-1381205614.png]]></icon>
+        <url><![CDATA[http://dantri.com.vn]]></url>
+        <head><![CDATA[Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà]]></head>
+    </item>
+    <item>
+        <title>VnExpress</title>
+        <icon><![CDATA[http://1.stc.laban.vn/largeicons/vnexpress.net-1381205280.png]]></icon>
+        <url><![CDATA[http://vnexpress.net]]></url>
+        <head><![CDATA[Tin nhanh - Báo tiếng Việt nhiều người xem]]></head>
+    </item>
+</site>
